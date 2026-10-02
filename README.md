@@ -42,9 +42,7 @@ https://kin-canvas-gallery.lovable.app/artistas
 
 Área destinada aos artistas para criação de conta, preenchimento do perfil e cadastro de obras.
 
-**Acessar área dos artistas:**  
-https://kin-canvas-gallery.lovable.app/admin
-
+somente os familiares artistas tem acesso ao link.
 ---
 
 ## 🧩 Principais funcionalidades
